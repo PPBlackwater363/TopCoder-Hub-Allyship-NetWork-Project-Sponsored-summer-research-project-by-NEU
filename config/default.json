@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://panpancao363:panpancao363@devconnector.tarux.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "3f63b783c8923219db94",
+  "githubSecret": "ee222c42c40d8f47b1b3ef952fe39794790cef68"
+}
